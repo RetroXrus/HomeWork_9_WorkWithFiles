@@ -1,0 +1,8 @@
+{
+  "name": "Nori",
+  "curly": true,
+  "age": 1.7,
+  "teeth": 30,
+  "nutrition": "Monge",
+  "functions": ["play","sleep","poop","rub", "purr", "hunt"]
+}
