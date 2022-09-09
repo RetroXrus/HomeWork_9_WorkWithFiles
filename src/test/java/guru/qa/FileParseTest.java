@@ -89,7 +89,7 @@ public class FileParseTest {
             String[] functions = new String[]{"play","sleep","poop","rub", "purr", "hunt"};
             assertThat(cat.getName()).isEqualTo("Nori");
             assertThat(cat.isCurly());
-            assertThat(cat.getAge()).isEqualTo(1.7);
+            assertThat(cat.getAge()).isEqualTo(1.75);
             assertThat(cat.getTeeth()).isEqualTo(30);
             assertThat(cat.getNutrition()).isEqualTo("Monge");
             assertThat(cat.getFunctions()).isEqualTo(functions);
